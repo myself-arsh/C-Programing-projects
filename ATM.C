@@ -60,7 +60,7 @@ int main()
 
 	    if (amount <= 0)
 	    {
-		printf("INBALID AMOUNT!!!\n");
+		printf("INVALID AMOUNT!!!\n");
 	    }
 	    else if (amount<=balance)
 	    {
@@ -75,6 +75,7 @@ int main()
 	    break;
 	case 4:
 	    printf("Thanks For coming visit again");
+		break;
 	default :
 	    printf("Invalid Choice!!!\n");
 	}
