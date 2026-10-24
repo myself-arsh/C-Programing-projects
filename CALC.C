@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{       int add,sub,mul,n;
+{
+    int add,sub,mul,n;
 	float div;
 	int a,b;
 	printf("Enter 1st no.:");
