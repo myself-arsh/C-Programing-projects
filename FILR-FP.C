@@ -25,7 +25,7 @@ int main()
    printf("Error");
    return 1;
   }
-  fprintf(fp,"\n1.Mr.Saravanan is a very friendly Teacher.\n2.He is very Kind.\n3.He teaches in understandable way.");
+  fprintf(fp,"\n1.Mr.Saravanan is a very friendly Teacher😊.\n2.He is very Kind✨.\n3.He teaches in understandable way👍.\n4.He's the Best teacher ever😁.");
 
   fclose(fp);
   fp = NULL;
